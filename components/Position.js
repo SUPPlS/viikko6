@@ -36,7 +36,7 @@ export default function Position() {
             color: '#000d0e',
             fontWeight: 'bold',
             textAlign: 'center',
-            fontFamily: 'sans-serif',  // Lisätty fontFamily
+            fontFamily: 'sans-serif',
             marginBottom: 20,
         },
         message: {
@@ -44,7 +44,7 @@ export default function Position() {
             color: '#000d0e',
             fontWeight: 'bold',
             textAlign: 'center',
-            fontFamily: 'sans-serif',  // Lisätty fontFamily
+            fontFamily: 'sans-serif',
             marginBottom: 20,
         },
     });
